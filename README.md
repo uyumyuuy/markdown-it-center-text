@@ -1,14 +1,10 @@
 # markdown-it-center-text
 
-[![Build Status](https://img.shields.io/travis/jay-hodgson/markdown-it-center-text/master.svg?style=flat)](https://travis-ci.org/jay-hodgson/markdown-it-center-text)
-[![NPM version](https://img.shields.io/npm/v/markdown-it-center-text.svg?style=flat)](https://www.npmjs.org/package/markdown-it-center-text)
-[![Coverage Status](https://img.shields.io/coveralls/jay-hodgson/markdown-it-center-text/master.svg?style=flat)](https://coveralls.io/r/jay-hodgson/markdown-it-center-text?branch=master)
+
 
 > Center text plugin for [markdown-it](https://github.com/markdown-it/markdown-it) markdown parser.
 
-__v1.+ requires `markdown-it` v4.+, see changelog.__
-
-`->Centered Text<-` => `<div class="text-align-center">Centered Text</div>`
+`->Centered Text<-` => `<p class="text-align-center">Centered Text</p>`
 
 
 ## Install
